@@ -1,0 +1,21 @@
+{
+  "name": "learning-playwright",
+  "version": "1.0.0",
+  "description": "This repository contains all the scripts that I am working with while learning how to use Playwright for automation.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/jchikwanda/learning-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchikwanda/learning-playwright/issues"
+  },
+  "homepage": "https://github.com/jchikwanda/learning-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
